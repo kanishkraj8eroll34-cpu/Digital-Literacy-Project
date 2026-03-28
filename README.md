@@ -7,7 +7,6 @@
 ![Role](https://img.shields.io/badge/Role-Student%20Digital%20Ambassador-success?style=for-the-badge&logo=microsoftacademic&logoColor=white)
 ![Institution](https://img.shields.io/badge/Institution-VIT%20Bhopal%20University-8A2BE2?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-https://docs.google.com/forms/d/1-vs4_FUGVaVi1Tbc5ORzdSDPHsseC1TMKVvogDPkzPU/edit?pli=1
 
 ## 👤 Ambassador Profile
 
@@ -25,6 +24,9 @@ https://docs.google.com/forms/d/1-vs4_FUGVaVi1Tbc5ORzdSDPHsseC1TMKVvogDPkzPU/edi
 Welcome to my official **Digital Literacy Portfolio**! I have developed this repository in my capacity as a **Student Digital Ambassador**. The primary objective of this role is to assist peers in effectively navigating the digital landscape—ranging from establishing a professional online presence to practicing safe and responsible digital communication. 
 
 This project encompasses five distinct modules, each addressing a critical component of modern digital literacy.
+
+
+Google form link: https://docs.google.com/forms/d/1-vs4_FUGVaVi1Tbc5ORzdSDPHsseC1TMKVvogDPkzPU/edit?pli=1
 
 ---
 
