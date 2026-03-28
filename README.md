@@ -13,7 +13,7 @@ https://docs.google.com/forms/d/1-vs4_FUGVaVi1Tbc5ORzdSDPHsseC1TMKVvogDPkzPU/edi
 
 | Attribute | Details |
 | :--- | :--- |
-| **Name** | Aditya Raj |
+| **Name** | Kanishk Raj |
 | **Registration Number** | **25BCE10866** |
 | **Degree Program** | First Year B.Tech - All Branches  (CSE Core) |
 | **Core Skills** | Python Programming, Digital Problem Solving |
